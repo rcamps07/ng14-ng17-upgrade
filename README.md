@@ -5,3 +5,6 @@ This is a demo to show that will showcase an Angular application starting from v
 
 ###
 I will start all the way from building a base Angular Module Federation shell app with version 14, to a working Angular 17 shell. 
+
+####
+source: https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md
