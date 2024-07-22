@@ -8,3 +8,10 @@ I will start all the way from building a base Angular Module Federation shell ap
 
 ####
 source: https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md
+
+####
+important links
+
+1. https://daily.dev/blog/angular-17-everything-you-need-to-know-in-one-place
+2. https://angular.dev/update-guide?v=14.0-17.0&l=1
+3. https://www.npmjs.com/package/@module-federation/esbuild?activeTab=readme
