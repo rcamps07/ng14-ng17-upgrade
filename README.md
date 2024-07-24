@@ -15,3 +15,5 @@ important links
 1. https://daily.dev/blog/angular-17-everything-you-need-to-know-in-one-place
 2. https://angular.dev/update-guide?v=14.0-17.0&l=1
 3. https://www.npmjs.com/package/@module-federation/esbuild?activeTab=readme
+4. https://medium.com/@navneetskahlon/a-step-by-step-guide-to-upgrading-your-angular-app-to-version-17-b21e6c85b53a#:~:text=A%20Step-by-Step%20Guide%20to%20Upgrading%20Your%20Angular%20App,...%205%20Step%205%3A%20Testing%20Your%20Application%20
+5. https://github.com/angular-architects/module-federation-plugin/blob/main/libs/native-federation/README.md
