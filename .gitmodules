@@ -1,0 +1,4 @@
+[submodule "subfolder-name"]
+	path = subfolder-name
+	url = https://github.com/manfredsteyer/module-federation-plugin-example.git
+	branch = nf-standalone-solution
